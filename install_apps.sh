@@ -11,4 +11,4 @@ sudo apt install -y tree
 sudo apt install -y sysbench
 sudo apt install -y hdparm
 sudo apt install -y colordiff
-
+sudo apt install -y rclone
